@@ -42,4 +42,8 @@ Welcome! I'm Sanjuanita Velazquez, a Data Engineer with a strong background in a
 - [Portfolio](https://www.mygreatlearning.com/eportfolio/sanjuanita-velazquez)
 - [LinkedIn](#) <!-- [(https://www.linkedin.com/in/sanjuanitavelazquez/)-->
 
+- [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sanjuanitav2-droid/sanjuanitav2-droid/HEAD)
+
+
+
 
