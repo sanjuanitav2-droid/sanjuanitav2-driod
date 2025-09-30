@@ -77,7 +77,18 @@ Key steps included:
 
 [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sanjuanitav2-droid/sanjuanitav2-driod/HEAD?filepath=Build/Decision_tree_Sanjuanita_Velazquez_AIML_Full_Code.ipynb)
 
+### K-Fold Cross Validation for Model Tuning
 
+I recently completed a hands-on notebook where I explored and implemented K-Fold Cross Validation for model evaluation and tuning, using the Pima Indians Diabetes dataset.
+
+Key steps included:
+- ✅ Data preparation and feature overview  
+- ✅ Splitting the data into training and testing sets  
+- ✅ Applying K-Fold Cross Validation to assess model stability and performance  
+- ✅ Building and evaluating a Logistic Regression model across multiple folds  
+- ✅ Interpreting accuracy metrics and understanding model variability  
+
+[View the K-Fold Cross Validation Notebook on GitHub](./Build/Model_Tuning_K_fold_cross_validation_Notebook.ipynb)
 
 
 
