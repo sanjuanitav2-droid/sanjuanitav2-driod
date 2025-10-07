@@ -91,4 +91,18 @@ Key steps included:
 [View the K-Fold Cross Validation Notebook on GitHub](./Build/Model_Tuning_K_fold_cross_validation_Notebook.ipynb)
 
 
+### Boosting & XGBoost Regression: Bike Sharing Case Study
+
+I just completed an end-to-end case study where I used advanced ensemble and boosting techniques (including XGBoost) to predict bike rental demand for a bike-sharing company.
+
+Key steps included:
+- ✅ Exploratory data analysis to uncover impactful features
+- ✅ Data preprocessing and feature engineering
+- ✅ Building regression models with Bagging, Random Forest, Gradient Boosting, AdaBoost, Stacking, and XGBoost
+- ✅ Hyperparameter tuning with GridSearchCV
+- ✅ Evaluating model performance to drive actionable business recommendations
+
+[View the Bike Sharing Regression Notebook on GitHub](https://github.com/sanjuanitav2-droid/sanjuanitav2-driod/blob/main/Build/Boosting_XG_REGRESSION_Case_Study_Bike_Sharing.ipynb)
+
+
 
