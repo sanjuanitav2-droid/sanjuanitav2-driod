@@ -104,7 +104,7 @@ Key steps included:
 
 [View the Bike Sharing Regression Notebook on GitHub](https://github.com/sanjuanitav2-droid/sanjuanitav2-driod/blob/main/Build/Boosting_XG_REGRESSION_Case_Study_Bike_Sharing.ipynb)
 
-# Neural Network ReneWind sensor Project
+# Neural Network ReneWind sensor failure
 
 End-to-end ML for predictive maintenance of wind-turbine generators — built and evaluated multiple neural-network classifiers on real sensor data (ciphered). Final model: ~99% accuracy, ~0.91 F[...]
 🧠 Key Steps
