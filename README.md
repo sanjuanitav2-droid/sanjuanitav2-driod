@@ -4,7 +4,7 @@
 **Data Engineer & AI Machine Learning Specialist**
 ---
 
-Welcome! I'm Sanjuanita Velazquez, a Data Engineer with a strong background in applied Machine Learning. I specialize in building robust, end-to-end data pipelines and deploying scalable ML models into production environments.
+Welcome! I'm Sanjuanita Velazquez, a Data Engineer with a strong background in applied Machine Learning. I specialize in building robust, end-to-end data pipelines and deploying scalable ML models [...]
 
 ## 👩‍💻 About Me
 
@@ -39,7 +39,7 @@ Welcome! I'm Sanjuanita Velazquez, a Data Engineer with a strong background in a
 
 ## 📫 Connect
 
-- [Portfolio](https://www.mygreatlearning.com/eportfolio/sanjuanita-velazquez)
+- [Portfolio](https://www.mygreatlearning.com/eportfolio/sanjuanitav2-droid)
 - [LinkedIn](#) <!-- [(https://www.linkedin.com/in/sanjuanitavelazquez/)-->
 
 ## 📒 Featured Jupyter Notebook
@@ -86,7 +86,7 @@ Key steps included:
 - ✅ Splitting the data into training and testing sets  
 - ✅ Applying K-Fold Cross Validation to assess model stability and performance  
 - ✅ Building and evaluating a Logistic Regression model across multiple folds  
-- ✅ Interpreting accuracy metrics and understanding model variability  
+- ✅ Interpreting accuracy metrics and understanding model variability
 
 [View the K-Fold Cross Validation Notebook on GitHub](./Build/Model_Tuning_K_fold_cross_validation_Notebook.ipynb)
 
@@ -106,8 +106,7 @@ Key steps included:
 
 # Neural Network ReneWind sensor Project
 
-End-to-end ML for predictive maintenance of wind-turbine generators — built and evaluated multiple neural-network classifiers on real sensor data (ciphered). Final model: ~99% accuracy, ~0.91 F1 (failure class).
-🧠 Key Steps
+End-to-end ML for predictive maintenance of wind-turbine generators — built and evaluated multiple neural-network classifiers on real sensor data (ciphered). Final model: ~99% accuracy, ~0.91 F[...]\n🧠 Key Steps
 
 Data exploration + preprocessing (scaling, encoding)
 
@@ -120,7 +119,5 @@ Final model selection based on validation performance & recall
 📈 Tech Stack:
 TensorFlow · Keras · Scikit-Learn · Pytho
 Notebook (full code & analysis):
-- Build/Sanjuanita Velazquez INN_ReneWind_Main_Project_FullCode_Notebook.ipynb  
-  [View notebook](./Build/Sanjuanita%20Velazquez%20INN_ReneWind_Main_Project_FullCode_Notebook.ipynb)
-
-
+- Build/Neural Network INN_ReneWind_Main_Project_FullCode_Notebook.ipynb  
+  [View notebook](./Build/Neural%20Network%20INN_ReneWind_Main_Project_FullCode_Notebook.ipynb)
