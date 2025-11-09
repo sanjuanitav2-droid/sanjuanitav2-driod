@@ -106,7 +106,8 @@ Key steps included:
 
 # Neural Network ReneWind sensor Project
 
-End-to-end ML for predictive maintenance of wind-turbine generators — built and evaluated multiple neural-network classifiers on real sensor data (ciphered). Final model: ~99% accuracy, ~0.91 F[...]\n🧠 Key Steps
+End-to-end ML for predictive maintenance of wind-turbine generators — built and evaluated multiple neural-network classifiers on real sensor data (ciphered). Final model: ~99% accuracy, ~0.91 F[...]
+🧠 Key Steps
 
 Data exploration + preprocessing (scaling, encoding)
 
@@ -117,7 +118,7 @@ Built & compared 7 neural network architectures
 Final model selection based on validation performance & recall
 
 📈 Tech Stack:
-TensorFlow · Keras · Scikit-Learn · Pytho
+TensorFlow · Keras · Scikit-Learn · Python
 Notebook (full code & analysis):
 - Build/Neural Network INN_ReneWind_Main_Project_FullCode_Notebook.ipynb  
   [View notebook](./Build/Neural%20Network%20INN_ReneWind_Main_Project_FullCode_Notebook.ipynb)
