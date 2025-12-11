@@ -39,7 +39,7 @@ Welcome! I'm Sanjuanita Velazquez, a Data Engineer with a strong background in a
 
 ## 📫 Connect
 
-- [Portfolio](https://www.mygreatlearning.com/eportfolio/sanjuanitav2-droid)
+- [Portfolio]([(https://www.mygreatlearning.com/eportfolio/sanjuanita-velazquez])
 - [LinkedIn](#) <!-- [(https://www.linkedin.com/in/sanjuanitavelazquez/)-->
 
 ## 📒 Featured Jupyter Notebook
