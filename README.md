@@ -122,3 +122,17 @@ TensorFlow · Keras · Scikit-Learn · Python
 Notebook (full code & analysis):
 - Build/Neural Network INN_ReneWind_Main_Project_FullCode_Notebook.ipynb  
   [View notebook](./Build/Neural%20Network%20INN_ReneWind_Main_Project_FullCode_Notebook.ipynb)
+
+  # Retrieval-Augmented Generation (RAG)
+  A short Retrieval-Augmented Generation (RAG) prototype for healthcare that retrieves evidence from trusted medical manuals and generates concise, evidence-backed answers to clinical questions.
+
+Notebook: [NLP_RAG.ipynb](https://github.com/sanjuanitav2-droid/sanjuanitav2-driod/blob/main/files/Build/NLP_RAG.ipynb)
+
+Requirements:
+- Python 3.8+
+- Jupyter Notebook / JupyterLab
+- langchain, transformers, sentence-transformers
+- faiss-cpu (or faiss-gpu)
+- openai (or your chosen LLM client)
+- pandas
+
