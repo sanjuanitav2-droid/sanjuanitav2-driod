@@ -136,3 +136,65 @@ Requirements:
 - openai (or your chosen LLM client)
 - pandas
 
+  # 🚀 SuperKart Sales Forecast – End-to-End ML Deployment
+
+This project demonstrates a complete end-to-end machine learning deployment workflow including:
+
+- Data preprocessing and feature engineering
+- Model training and tuning (Decision Tree & XGBoost)
+- Model evaluation and selection
+- Backend deployment using Flask API (Dockerized)
+- Frontend deployment using Streamlit UI (Dockerized)
+- Deployment to Hugging Face Spaces
+
+---
+
+## 📊 Model Summary
+
+The tuned XGBoost model achieved the lowest RMSE and strongest generalization performance on test data.  
+
+Key drivers of sales predictions include:
+- Product MRP
+- Store size
+- Store location tier
+- Store type
+
+---
+
+## 🌐   Live Deployment in Huggingface
+
+### 🔹 Backend API
+Flask API deployed on Hugging Face  
+👉 https://sanjuanitav2-superkart-backend-api.hf.space
+
+### 🔹 Frontend UI
+Streamlit app deployed on Hugging Face  
+👉 https://sanjuanitav2-superkart-frontend-ui.hf.space
+---
+## 📓 Full Code Notebook
+
+Complete full-code deployment notebook:
+👉 [Containerize and Deploy SuperKart_Model.ipynb](https://github.com/sanjuanitav2-droid/sanjuanitav2-driod/blob/main/Build/Containerize%20and%20Deploy%20SuperKart_Model.ipynb)
+## 🛠️ Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+- XGBoost
+- Flask
+- Streamlit
+- Docker
+- Hugging Face Spaces
+--
+## 💡 Business Impact
+This solution enables business teams to:
+- Simulate sales forecasts before inventory decisions
+- Optimize pricing strategies
+- Adjust store-level planning based on location and store type
+- Make faster data-driven decisions using a live prediction interface
+
+---
+## 👤 Author
+
+Sanjuanita Velazquez  
+Machine Learning & AI Projects
+
